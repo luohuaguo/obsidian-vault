@@ -1,0 +1,302 @@
+{
+  "main": {
+    "id": "72a1cc2e75eaab55",
+    "type": "split",
+    "children": [
+      {
+        "id": "53affecb1deb46d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e631182032e4eced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17"
+            }
+          },
+          {
+            "id": "dd93494d73676aba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2026-04-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-17"
+            }
+          },
+          {
+            "id": "d8a12f232a254a0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01.用户画像/我的用户画像.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "我的用户画像"
+            }
+          },
+          {
+            "id": "0e0ccb8075b0b9f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07.发布文案/2026年/草稿/2026年4月18日-AI生产日报提效案例.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026年4月18日-AI生产日报提效案例"
+            }
+          },
+          {
+            "id": "668c782da6ad6316",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260418/第一个月内容计划（16篇选题）.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "第一个月内容计划（16篇选题）"
+            }
+          },
+          {
+            "id": "430ab87efe27e862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名 1"
+            }
+          },
+          {
+            "id": "7d8b36c51878bdd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "20260418/华哥个人上下文完整版.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "华哥个人上下文完整版"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8572f5f7da953dc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f7b0c69fe208cfac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab728afe6f8dbc91",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "fa7ae87a44f05bec",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "bfc7f8d6c40c460e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "03376a94eab93621",
+    "type": "split",
+    "children": [
+      {
+        "id": "38478fe22ef715ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41f107d4bf029193",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "0003cc1643e6c40a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "912e04adf80bef00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "ff12d7b2155409ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "44362fccb121a1a4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "1ab3d332bba3b5c5",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "claudian:Open Claudian": false,
+      "web-clipper-screenshot:Web Clipper 📸": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "7d8b36c51878bdd1",
+  "lastOpenFiles": [
+    "20260418/第一个月内容计划（16篇选题）.md",
+    "20260418/华哥个人上下文完整版.md",
+    "未命名 1.md",
+    "20260418/风格萃取说明.md",
+    "20260418.md",
+    "07.发布文案/2026年/草稿/2026年4月18日-AI生产日报提效案例.md",
+    "01.用户画像/我的用户画像.md",
+    "2026-04-17.md",
+    "07.发布文案/2026年/草稿",
+    "07.发布文案/2026年",
+    "07.发布文案",
+    "20260418/华哥个人上下文完整版.md.tmp.11152.1776493645403",
+    "20260418",
+    "04.我的上下文/我的个人上下文/当下每时每刻（持续更新）.md.tmp.11152.1776493590005",
+    "01.用户画像/我的用户画像.md.tmp.11152.1776493589868",
+    "04.我的上下文/我的个人上下文/个人自传（持续更新）.md.tmp.11152.1776493589282",
+    "01.用户画像/我的用户画像.md.tmp.11152.1776493460581",
+    "04.我的上下文/我的个人上下文/当下每时每刻（持续更新）.md.tmp.11152.1776493460282",
+    "CLAUDE.md"
+  ]
+}

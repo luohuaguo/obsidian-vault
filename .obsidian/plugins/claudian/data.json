@@ -1,0 +1,29 @@
+{
+  "environmentVariables": [
+    {
+      "value": "http://127.0.0.1:7890",
+      "name": "HTTPS_PROXY"
+    },
+    {
+      "value": "http://127.0.0.1:7890",
+      "name": "HTTP_PROXY"
+    }
+  ],
+  "tabManagerState": {
+    "openTabs": [
+      {
+        "tabId": "tab-1776435856846-14zfsup",
+        "conversationId": "conv-1776435866356-9dyd6ynph"
+      },
+      {
+        "tabId": "tab-1776436798075-zjouk3j",
+        "conversationId": null
+      },
+      {
+        "tabId": "tab-1776436809778-hvwc9x8",
+        "conversationId": null
+      }
+    ],
+    "activeTabId": "tab-1776435856846-14zfsup"
+  }
+}
